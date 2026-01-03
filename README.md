@@ -18,7 +18,7 @@ title: Long Yuan (龙源) - HDU
 
 ## 🙋‍♂️ About Me
 
-I am currently a first-year M.Sc. student (Class of 2024) at the School of Automation, **Hangzhou Dianzi University**, China.
+I am currently a first-year graduate student (M.Eng. candidate, Class of 2024) at the School of Automation, **Hangzhou Dianzi University (HDU)**, China.
 
 My research focuses on **Artificial Intelligence**, with a particular interest in **Deep Learning** and **Continual Learning** (Incremental Learning). I am dedicated to exploring robust and adaptive learning mechanisms for dynamic environments.
 
@@ -36,12 +36,11 @@ I am currently looking for academic exchange and collaboration opportunities.
 
 ## 🎓 Education
 
-* **M.Sc. in Control Science and Engineering** (In progress)  
-    *Hangzhou Dianzi University (HDU)*, Hangzhou, China  
+* **M.Eng. in Control Engineering** (In progress)  
+    *School of Automation* *Hangzhou Dianzi University (HDU)*, Hangzhou, China  
     *Sept. 2024 - Present*
 
-* **B.Eng.** (Optional: Add your bachelor info here if you want)  
-    *University Name*, City, China  
+* **B.Eng. in Automation** *School of Electrical Engineering* *Jiangxi University of Water Resources and Electric Power (formerly Nanchang Institute of Technology)*, Nanchang, China  
     *Sept. 2020 - June 2024*
 
 ---
