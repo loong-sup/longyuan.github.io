@@ -1,7 +1,3 @@
----
-layout: default
-title: Long Yuan (龙源) - HDU
----
 
 # Long Yuan (龙源)
 
